@@ -1,2 +1,2 @@
-# LSTMwithAttention
-LSTM with Attention for sentiment analysis
+# sentiment analysis
+ a trained LSTM model that predicts the sentiment of a movie review
