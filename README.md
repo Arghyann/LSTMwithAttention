@@ -1,2 +1,2 @@
 # sentiment analysis
- a trained LSTM model that predicts the sentiment of a movie review
+multiple attemps of trying to make lstm work and then finally settling fir lstm with attention 
